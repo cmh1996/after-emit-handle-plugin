@@ -1,0 +1,14 @@
+{
+  "name": "after-emit-handle-plugin",
+  "version": "1.0.0",
+  "description": "a webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chambers1996",
+  "license": "ISC",
+  "devDependencies": {
+    "request": "^2.88.0"
+  }
+}
